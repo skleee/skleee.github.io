@@ -62,11 +62,12 @@ Advisor: Prof. Jongwuk Lee
 
 **Sungkyunkwan University, Republic of Korea**  
 M.S., Department of Artificial Intelligence   
-*Mar 2021 – Feb 2023*   
+*Mar 2021 – Feb 2023*  
+Advisor: Prof. Jongwuk Lee  
+Thesis: A Dual Document Encoder Based on Sparse Representations for First-stage Retrieval  
 
 **Sungkyunkwan University, Republic of Korea**  
-B.S., Department of Computer Science and Engineering &  
-B.A., Department of Global Economics   
+B.S., Department of Computer Science and Engineering & B.A., Department of Global Economics   
 *Mar 2017 – Feb 2021*
 
 
