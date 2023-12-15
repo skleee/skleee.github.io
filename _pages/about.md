@@ -1,26 +1,26 @@
 ---
 permalink: /
-title: "Sunkyung Lee"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University, Korea. I received my M.S. degree in Artificial Intelligence at SKKU, Korea, in 2023. Before that, I received my B.S. degree in Global Economics and Software at SKKU, Korea, in 2021. I am primarily interested in Information Retrieval, especially focusing on sparse retrieval and generative document retrieval. My research interests broadly lie in the fields of data mining and natural language processing in real-world applications.
+I'm a Ph.D. student in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University, Korea. I received my M.S. degree in Artificial Intelligence at SKKU, Korea, in 2023. Before that, I received my B.A. degree in Economics and B.S. degree in Computer Science and Engineering at SKKU, Korea, in 2021. I am primarily interested in Information Retrieval, especially focusing on sparse retrieval and generative document retrieval. My research interests broadly lie in the fields of data mining and natural language processing in real-world applications.
 
 Publications
 ======
 
 International Conference
 ------
-**GLEN: Generative Retrieval via Lexical Index Learning** [[link]](https://arxiv.org/abs/2311.03057) [[code]](https://github.com/skleee/GLEN)  
+**GLEN: Generative Retrieval via Lexical Index Learning** [[link]](https://arxiv.org/abs/2311.03057) [[code]](https://github.com/skleee/GLEN) [[blog(korean)]](https://dial.skku.edu/blog/2023_glen)   
 **Sunkyung Lee**\*, Minjin Choi\*, Jongwuk Lee (* : equal contribution)  
 The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)  
-Singapore, December 6-10, 2023 (To appear)  
+Singapore, December 6-10, 2023 (Acceptance Rate: 23.3%, 901/3868)
 
 
-**ConQueR: Contextualized Query Reduction using Search Logs** [[link]](https://arxiv.org/abs/2305.12662) [code]  
+**ConQueR: Contextualized Query Reduction using Search Logs** [[link]](https://arxiv.org/abs/2305.12662) [[code]](https://github.com/eunseongc/SpaDE) [[blog(korean)]](https://dial.skku.edu/blog/2023_conquer)    
 Hye-young Kim\*, Minjin Choi\*, **Sunkyung Lee**, Eunseong Choi, Young-In Song and Jongwuk Lee (* : equal contribution)  
 The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR, short paper)  
 Taipei, Taiwan, July 23-27, 2023 (Acceptance Rate: 25.12%, 154/613)  
@@ -38,7 +38,7 @@ Minjin Choi, **Sunkyung Lee**, Eunseong Choi, Heesoo Park, Junhyuk Lee, Dongwon 
 Mexico City, Mexico (Virtual Event), June 6–11, 2021 (Acceptance Rate: 26.5%, 477/1797)  
 
 
-Domestic Conference
+Domestic Conference and Journal
 ------
 
 **의사 문장 표현을 활용한 수학 문장형 문제 풀이 모델** (우수발표논문상) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113362)  
