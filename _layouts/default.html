@@ -18,6 +18,8 @@ layout: compress
 
     {{ content }}
 
+    {% include scripts.html %}
+
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
@@ -25,7 +27,6 @@ layout: compress
       </footer>
     </div>
 
-    {% include scripts.html %}
 
   </body>
 </html>

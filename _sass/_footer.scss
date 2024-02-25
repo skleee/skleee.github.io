@@ -58,6 +58,14 @@
   font-size: $type-size-7;
 }
 
+.widget {
+  margin-bottom: 2em;
+
+  @include breakpoint($small) {
+    margin-bottom: 0;
+  }
+}
+
 .page__footer-follow {
   ul {
     margin: 0;
