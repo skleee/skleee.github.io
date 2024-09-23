@@ -14,10 +14,17 @@ Publications
 
 International Conference
 ------
-**MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation**  
+**From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression**  
+Eunseong Choi, **Sunkyung Lee**, Minjin Choi, June Park, Jongwuk Lee 
+Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP findings)  
+Miami, Florida, USA, November 12-16, 2024 (To appear)  
+
+
+**MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation** [[link]](https://arxiv.org/abs/2409.00702) [[code]](https://github.com/junieberry/MARS)   
 Hyunsoo Kim*, Junyoung Kim*, Minjin Choi, **Sunkyung Lee**, Jongwuk Lee (* : equal contribution)  
 The 33rd ACM International Conference on Information and Knowledge Management (CIKM, short paper)  
 Boise, Idaho, USA, October 21-25, 2024 (To appear)  
+
 
 **GLEN: Generative Retrieval via Lexical Index Learning** [[link]](https://arxiv.org/abs/2311.03057) [[code]](https://github.com/skleee/GLEN) [[blog(korean)]](https://dial.skku.edu/blog/2023_glen)   
 **Sunkyung Lee**\*, Minjin Choi\*, Jongwuk Lee (* : equal contribution)  
