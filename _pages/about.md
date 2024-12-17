@@ -17,7 +17,7 @@ International Conference
 **From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression**  
 Eunseong Choi, **Sunkyung Lee**, Minjin Choi, June Park, Jongwuk Lee [[link]](https://arxiv.org/abs/2410.04139) [[code]](https://github.com/eunseongc/R2C)  
 Findings of the Association for Computational Linguistics: EMNLP 2024 (EMNLP findings)  
-Miami, Florida, USA, November 12-16, 2024 (To appear)  
+Miami, Florida, USA, November 12-16, 2024 
 
 
 **MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation** [[link]](https://dl.acm.org/doi/10.1145/3627673.3679960) [[code]](https://github.com/junieberry/MARS) [[poster]](https://github.com/junieberry/MARS/blob/main/assets/poster.pdf)      
