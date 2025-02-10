@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University, Korea. I received my M.S. degree in Artificial Intelligence at SKKU, Korea, in 2023. Before that, I received my B.A. degree in Economics and B.S. degree in Computer Science and Engineering at SKKU, Korea, in 2021. I am primarily interested in Information Retrieval, especially focusing on sparse retrieval and generative document retrieval. My research interests broadly lie in the fields of data mining and natural language processing in real-world applications.
+I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University, Korea. I received my M.S. degree in Artificial Intelligence at SKKU, Korea, in 2023. Before that, I received my B.A. degree in Economics and B.S. degree in Computer Science and Engineering at SKKU, Korea, in 2021. I am primarily interested in Information Retrieval, especially focusing on sparse retrieval and generative document retrieval. My research interests broadly lie in the fields of data mining and natural language processing in real-world applications.
 
 Publications
 ======
@@ -85,5 +85,5 @@ B.S., Department of Computer Science and Engineering & B.A., Department of Globa
 
 For more info
 ------
-Please download [CV](http://skleee.github.io/files/CV.pdf) here.  
+Please download [CV](https://drive.google.com/file/d/1byAnh5h15PSxB_mFncx7IEUELth9D05h/view?usp=sharing) here.  
 Visit our lab homepage: [DIAL Lab](https://dial.skku.edu/members/sunkyung_lee)
