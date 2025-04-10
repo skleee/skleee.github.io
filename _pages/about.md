@@ -1,19 +1,31 @@
 ---
 permalink: /
-title: "About"
+title: "Sunkyung Lee"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University, Korea. I received my M.S. degree in Artificial Intelligence at SKKU, Korea, in 2023. Before that, I received my B.A. degree in Economics and B.S. degree in Computer Science and Engineering at SKKU, Korea, in 2021. I am primarily interested in Information Retrieval, especially focusing on sparse retrieval and generative document retrieval. My research interests broadly lie in the fields of data mining and natural language processing in real-world applications.
+I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023. Previously, I earned my B.A. in Economics and B.S. in Computer Science and Engineering, also from SKKU, in 2021. I am primarily interested in Information Retrieval, focusing on generative models for search and recommendation. My broader research interests encompass data mining and natural language processing, particularly their applications to real-world problems.
 
 Publications
 ======
 
 International Conference
 ------
+**Linear Item-Item Models with Neural Knowledge for Session-based Recommendation**  
+Minjin Choi, **Sunkyung Lee**, Seongmin Park, Jongwuk Lee    
+The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)  
+Padua, Italy, July 13-17, 2025 (Acceptance Rate: 21.5%, 238/1105)    
+
+
+**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation**  
+Hye-young Kim, Minjin Choi, **Sunkyung Lee**, Ilwoong Baek, Jongwuk Lee  
+The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)  
+Padua, Italy, July 13-17, 2025 (Acceptance Rate: 21.5%, 238/1105)   
+
+
 **From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression**  
 Eunseong Choi, **Sunkyung Lee**, Minjin Choi, June Park, Jongwuk Lee [[link]](https://arxiv.org/abs/2410.04139) [[code]](https://github.com/eunseongc/R2C)  
 Findings of the Association for Computational Linguistics: EMNLP 2024 (EMNLP findings)  
@@ -52,6 +64,9 @@ Mexico City, Mexico (Virtual Event), June 6–11, 2021 (Acceptance Rate: 26.5%, 
 
 Domestic Conference and Journal
 ------
+거대언어모델 기반 추천 시스템을 위한 소프트 프롬프트 활용 지식 주입 방법 비교 [paper] [[link]](https://www.dbsociety.kr/kdbc/kdbc2024/proceedings.html)  
+이동철, **이선경**, 이종욱
+한국데이터베이스학회 (Korean DataBase Conference), 2024
 
 **의사 문장 표현을 활용한 수학 문장형 문제 풀이 모델** (우수발표논문상) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113362)  
 김지우, **이선경**, 최은성, 이종욱  
@@ -64,6 +79,13 @@ Domestic Conference and Journal
 **기계 독해 성능 개선을 위한 데이터 증강 기법** (우수논문상) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529658)  
 **이선경**, 정선호, 이종욱  
 한국정보과학회 학술발표논문집 Vol.2020 No.12 [2020]: 400-402, Dec 2020  
+
+Patent
+======
+**생성적 검색을 위해 딥러닝 모델을 학습시키는 방법 및 기학습된 딥러닝 모델을 이용하여 질의 추론을 수행하는 장치**  
+**이선경**, 최민진, 이종욱  
+출원번호 10-2024-0041745, 출원일 2024.03.27  
+
 
 Education
 ======

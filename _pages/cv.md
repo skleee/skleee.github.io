@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please download [CV](http://skleee.github.io/files/CV.pdf) here.  
+Please download [CV](https://drive.google.com/file/d/1byAnh5h15PSxB_mFncx7IEUELth9D05h/view?usp=sharing) here.  
