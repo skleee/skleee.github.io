@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Sunkyung Lee"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023. Previously, I earned my B.A. in Economics and B.S. in Computer Science and Engineering, also from SKKU, in 2021. I am primarily interested in Information Retrieval, focusing on generative models for search and recommendation. My broader research interests encompass data mining and natural language processing, particularly their applications to real-world problems.
+I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023. Previously, I earned my B.A. in Economics and B.S. in Computer Science and Engineering, also from SKKU, in 2021. I am primarily interested in Information Retrieval, focusing on generative models for search and recommendation. My broader research interests encompass data mining and natural language processing, particularly their applications to real-world problems. 
+
+------
 
 Publications
 ======
@@ -64,7 +66,7 @@ Mexico City, Mexico (Virtual Event), June 6–11, 2021 (Acceptance Rate: 26.5%, 
 
 Domestic Conference and Journal
 ------
-거대언어모델 기반 추천 시스템을 위한 소프트 프롬프트 활용 지식 주입 방법 비교 [paper] [[link]](https://www.dbsociety.kr/kdbc/kdbc2024/proceedings.html)  
+**거대언어모델 기반 추천 시스템을 위한 소프트 프롬프트 활용 지식 주입 방법 비교** [[link]](https://www.dbsociety.kr/kdbc/kdbc2024/proceedings.html)  
 이동철, **이선경**, 이종욱
 한국데이터베이스학회 (Korean DataBase Conference), 2024
 
@@ -80,12 +82,15 @@ Domestic Conference and Journal
 **이선경**, 정선호, 이종욱  
 한국정보과학회 학술발표논문집 Vol.2020 No.12 [2020]: 400-402, Dec 2020  
 
-Patent
+------
+
+Patents
 ======
 **생성적 검색을 위해 딥러닝 모델을 학습시키는 방법 및 기학습된 딥러닝 모델을 이용하여 질의 추론을 수행하는 장치**  
 **이선경**, 최민진, 이종욱  
 출원번호 10-2024-0041745, 출원일 2024.03.27  
 
+------
 
 Education
 ======
@@ -103,6 +108,9 @@ Thesis: A Dual Document Encoder Based on Sparse Representations for First-stage 
 **Sungkyunkwan University, Republic of Korea**  
 B.S., Department of Computer Science and Engineering & B.A., Department of Global Economics   
 *Mar 2017 – Feb 2021*
+
+
+------
 
 
 For more info
