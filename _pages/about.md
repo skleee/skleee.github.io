@@ -16,6 +16,11 @@ Publications
 
 International Conference
 ------
+**GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion**  
+**Sunkyung Lee**, Minjin Choi, Eunseong Choi, Hye-young Kim, Jongwuk Lee    
+The 63rd Annual Meeting of the Association for Computational Linguistics (ACL)  
+Vienna, Austria, July 27–Aug 1, 2025 (To appear)  
+
 **Linear Item-Item Models with Neural Knowledge for Session-based Recommendation**  
 Minjin Choi, **Sunkyung Lee**, Seongmin Park, Jongwuk Lee    
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)  
