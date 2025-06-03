@@ -16,25 +16,25 @@ Publications
 
 International Conference
 ------
-**GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion**  
+**GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion** [[link]](https://arxiv.org/abs/2506.01673) [[code]](https://github.com/skleee/GRAM)   
 **Sunkyung Lee**, Minjin Choi, Eunseong Choi, Hye-young Kim, Jongwuk Lee    
 The 63rd Annual Meeting of the Association for Computational Linguistics (ACL)  
 Vienna, Austria, July 27–Aug 1, 2025 (To appear)  
 
-**Linear Item-Item Models with Neural Knowledge for Session-based Recommendation**  
+**Linear Item-Item Models with Neural Knowledge for Session-based Recommendation** [[link]](https://arxiv.org/abs/2504.15057) [[code]](https://github.com/jin530/LINK)   
 Minjin Choi, **Sunkyung Lee**, Seongmin Park, Jongwuk Lee    
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)  
 Padua, Italy, July 13-17, 2025 (Acceptance Rate: 21.5%, 238/1105)    
 
 
-**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation**  
+**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation** [[link]](https://arxiv.org/abs/2505.13974) [[code]](https://github.com/HyeYoung1218/DIFF)   
 Hye-young Kim, Minjin Choi, **Sunkyung Lee**, Ilwoong Baek, Jongwuk Lee  
 The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)  
 Padua, Italy, July 13-17, 2025 (Acceptance Rate: 21.5%, 238/1105)   
 
 
-**From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression**  
-Eunseong Choi, **Sunkyung Lee**, Minjin Choi, June Park, Jongwuk Lee [[link]](https://arxiv.org/abs/2410.04139) [[code]](https://github.com/eunseongc/R2C)  
+**From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression** [[link]](https://arxiv.org/abs/2410.04139) [[code]](https://github.com/eunseongc/R2C)  
+Eunseong Choi, **Sunkyung Lee**, Minjin Choi, June Park, Jongwuk Lee  
 Findings of the Association for Computational Linguistics: EMNLP 2024 (EMNLP findings)  
 Miami, Florida, USA, November 12-16, 2024 
 
