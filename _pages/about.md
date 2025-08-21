@@ -16,10 +16,16 @@ Publications
 
 International Conference
 ------
+
+**Enhancing Time Awareness in Generative Recommendationn**  
+**Sunkyung Lee**, Seongmin Park, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee  
+Findings of the Association for Computational Linguistics: EMNLP 2025 (EMNLP findings)  
+Suzhou, China, Nov 5-9, 2025 (To appear)
+
 **GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion** [[link]](https://arxiv.org/abs/2506.01673) [[code]](https://github.com/skleee/GRAM)   
 **Sunkyung Lee**, Minjin Choi, Eunseong Choi, Hye-young Kim, Jongwuk Lee    
 The 63rd Annual Meeting of the Association for Computational Linguistics (ACL)  
-Vienna, Austria, July 27–Aug 1, 2025 (To appear)  
+Vienna, Austria, July 27–Aug 1, 2025 (Acceptance Rate: 20.3%, 1699/8360)
 
 **Linear Item-Item Models with Neural Knowledge for Session-based Recommendation** [[link]](https://arxiv.org/abs/2504.15057) [[code]](https://github.com/jin530/LINK)   
 Minjin Choi, **Sunkyung Lee**, Seongmin Park, Jongwuk Lee    
