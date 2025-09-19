@@ -17,7 +17,7 @@ Publications
 International Conference
 ------
 
-**Enhancing Time Awareness in Generative Recommendationn**  
+**Enhancing Time Awareness in Generative Recommendation** [[link]](https://arxiv.org/abs/2509.13957) [[code]](https://github.com/skleee/GRUT)   
 **Sunkyung Lee**, Seongmin Park, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee  
 Findings of the Association for Computational Linguistics: EMNLP 2025 (EMNLP findings)  
 Suzhou, China, Nov 5-9, 2025 (To appear)
