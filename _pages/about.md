@@ -109,8 +109,9 @@ language models on real-world search log data
 Developed a sparse representation-based document retrieval system utilizing pretrained language models and implemented pipelines to validate retrieval performance on real-world search data
 
 ------
-Education
-======
+
+Education   
+====== 
 **Sungkyunkwan University, Republic of Korea**  
 Ph.D., Department of Artificial Intelligence  
 *Mar 2023 – present*  
