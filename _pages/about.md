@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023. Previously, I earned my B.A. in Economics and B.S. in Computer Science and Engineering, also from SKKU, in 2021. I am primarily interested in Information Retrieval, focusing on generative models for search and recommendation. My broader research interests encompass data mining and natural language processing, particularly their applications to real-world problems. 
+I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023. Previously, I earned my B.S. in Computer Science and Engineering and B.A. in Economics from SKKU in 2021. My research interest lies in Information Retrieval, Recommendation Systems, and Natural Language Processing, focusing on
+leveraging large language models for Generative Information Retrieval.   
 
 ------
 
@@ -95,31 +96,46 @@ Domestic Conference and Journal
 
 ------
 
-Patents
+Working Experience
 ======
-**생성적 검색을 위해 딥러닝 모델을 학습시키는 방법 및 기학습된 딥러닝 모델을 이용하여 질의 추론을 수행하는 장치**  
-**이선경**, 최민진, 이종욱  
-출원번호 10-2024-0041745, 출원일 2024.03.27  
+**NAVER Corp., Search LLM Solution**  
+*Research Intern* — *Jun 2025 – Sep 2025*  
+Worked on a trustworthy generative information retrieval system leveraging large
+language models on real-world search log data
+
+**NAVER Corp., Search CIC**  
+*Research Intern* — *Jul 2021 – Aug 2021*  
+Developed a sparse representation-based document retrieval system utilizing pretrained language models and implemented pipelines to validate retrieval performance on real-world search data
 
 ------
 
-Education
+Professional Services
 ======
-**Sungkyunkwan University, Republic of Korea**  
-Ph.D., Department of Artificial Intelligence  
-*Mar 2023 – present*  
-Advisor: Prof. Jongwuk Lee
+**Invited Reviewer**  
+- Annual Meeting of the Association for Computational Linguistics (**ACL**), 2024–2025  
+- Annual Conference of the North American Chapter of the ACL (**NAACL**), 2024–2025  
+- Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024–2025  
+- ACL Rolling Review (**ARR**), 2023–present  
 
-**Sungkyunkwan University, Republic of Korea**  
-M.S., Department of Artificial Intelligence   
-*Mar 2021 – Feb 2023*  
-Advisor: Prof. Jongwuk Lee  
-Thesis: A Dual Document Encoder Based on Sparse Representations for First-stage Retrieval  
+**External Reviewer**  
+- ACM Web Conference (**WWW**), 2024–2025  
+- Conference on Neural Information Processing Systems (**NeurIPS**), 2024  
+- ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2023–2024  
+- Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023  
+- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022 & 2025  
+- Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2022  
 
-**Sungkyunkwan University, Republic of Korea**  
-B.S., Department of Computer Science and Engineering & B.A., Department of Global Economics   
-*Mar 2017 – Feb 2021*
+------
 
+Patents
+======
+**Method for Training Deep Learning Model for Generative Retrieval and Apparatus for Performing Query Inference Using Pre-trained Deep Learning Model**  
+**Sunkyung Lee**, Minjin Choi, Jongwuk Lee    
+U.S. Patent No. 19/088,736 — *Granted*  
+
+**생성적 검색을 위해 딥러닝 모델을 학습시키는 방법 및 기학습된 딥러닝 모델을 이용하여 질의 추론을 수행하는 장치**  
+**이선경**, 최민진, 이종욱  
+Korean Patent Application No. 10-2024-0041745 — *Filed: Mar 27, 2024*
 
 ------
 
