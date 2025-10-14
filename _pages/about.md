@@ -12,6 +12,7 @@ leveraging large language models for Generative Information Retrieval.
 
 ------
 
+
 Publications
 ======
 
@@ -108,34 +109,22 @@ language models on real-world search log data
 Developed a sparse representation-based document retrieval system utilizing pretrained language models and implemented pipelines to validate retrieval performance on real-world search data
 
 ------
-
-Professional Services
+Education
 ======
-**Invited Reviewer**  
-- Annual Meeting of the Association for Computational Linguistics (**ACL**), 2024–2025  
-- Annual Conference of the North American Chapter of the ACL (**NAACL**), 2024–2025  
-- Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2024–2025  
-- ACL Rolling Review (**ARR**), 2023–present  
+**Sungkyunkwan University, Republic of Korea**  
+Ph.D., Department of Artificial Intelligence  
+*Mar 2023 – present*  
+Advisor: Prof. Jongwuk Lee
 
-**External Reviewer**  
-- ACM Web Conference (**WWW**), 2024–2025  
-- Conference on Neural Information Processing Systems (**NeurIPS**), 2024  
-- ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2023–2024  
-- Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023  
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2022 & 2025  
-- Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2022  
+**Sungkyunkwan University, Republic of Korea**  
+M.S., Department of Artificial Intelligence   
+*Mar 2021 – Feb 2023*  
+Advisor: Prof. Jongwuk Lee  
+Thesis: A Dual Document Encoder Based on Sparse Representations for First-stage Retrieval    
 
-------
-
-Patents
-======
-**Method for Training Deep Learning Model for Generative Retrieval and Apparatus for Performing Query Inference Using Pre-trained Deep Learning Model**  
-**Sunkyung Lee**, Minjin Choi, Jongwuk Lee    
-U.S. Patent No. 19/088,736 — *Granted*  
-
-**생성적 검색을 위해 딥러닝 모델을 학습시키는 방법 및 기학습된 딥러닝 모델을 이용하여 질의 추론을 수행하는 장치**  
-**이선경**, 최민진, 이종욱  
-Korean Patent Application No. 10-2024-0041745 — *Filed: Mar 27, 2024*
+**Sungkyunkwan University, Republic of Korea**  
+B.S., Department of Computer Science and Engineering & B.A., Department of Global Economics   
+*Mar 2017 – Feb 2021*
 
 ------
 
