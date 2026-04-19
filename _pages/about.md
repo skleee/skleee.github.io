@@ -164,8 +164,10 @@ Research Intern, Search CIC (Seongnam, Republic of Korea)
 Developed a sparse representation-based document retrieval system utilizing pretrained language models and implemented pipelines to validate retrieval performance on real-world search data   
 *Jul 2021 – Aug 2021*
 
----
-For more info    
+------
+
+
+For more info   
 ------
 Please download [CV](https://drive.google.com/file/d/1byAnh5h15PSxB_mFncx7IEUELth9D05h/view?usp=sharing) here.  
 Visit our lab homepage: [DIAL Lab](https://dial.skku.edu/members/sunkyung_lee)
