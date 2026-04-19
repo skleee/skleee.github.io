@@ -3,12 +3,37 @@ permalink: /
 title: "About"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023. Previously, I earned my B.S. in Computer Science and Engineering and B.A. in Economics from SKKU in 2021. My research interest lies in Information Retrieval, Recommendation Systems, and Natural Language Processing, focusing on
-leveraging large language models for Generative Information Retrieval.   
+
+<style>
+  .page__content {
+    font-size: 0.85em;
+    line-height: 1.65;
+  }
+
+  .page__content h1 {
+    font-size: 1.8em;
+  }
+
+  .page__content h2 {
+    font-size: 1.4em;
+  }
+
+  .conference-name {
+    color: #0066CC; /* 006DD9 */
+    font-weight: bold;
+  }
+
+  .bold-name {
+    font-weight: bold;
+  }
+
+</style>
+
+I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023. Previously, I earned my B.S. in Computer Science and Engineering and B.A. in Economics from SKKU in 2021. My research focuses on the intersection of Information Retrieval and Natural Language Processing. Specifically, my interests center on Generative Search and Recommendation, alongside the application of large language models for advanced personalization and user modeling. A key objective is the integration of generative models with scalable system deployment, facilitating the translation of research innovations into real-world applications.
 
 ------
 
@@ -19,10 +44,16 @@ Publications
 International Conference
 ------
 
+**From Relevance to Authority: Authority-aware Generative Retrieval in Web Search Engines** [[link]](https://arxiv.org/abs/2604.13468)  
+**Sunkyung Lee**\*, Jihye Back\*, Donghyeon Jeon, Soonhwan Kwon, Moonkwon Kim, Inho Kang, Jongwuk Lee   
+The 64th Annual Meeting of the Association for Computational Linguistics (ACL Industry Track)   
+San Diego, California, United States, July 2–7, 2026 
+
+
 **Enhancing Time Awareness in Generative Recommendation** [[link]](https://arxiv.org/abs/2509.13957) [[code]](https://github.com/skleee/GRUT)   
-**Sunkyung Lee**, Seongmin Park, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee  
+**Sunkyung Lee**, Seongmin Park, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee 
 Findings of the Association for Computational Linguistics: EMNLP 2025 (EMNLP findings)  
-Suzhou, China, Nov 5-9, 2025 (To appear)
+Suzhou, China, Nov 5-9, 2025   
 
 **GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion** [[link]](https://arxiv.org/abs/2506.01673) [[code]](https://github.com/skleee/GRAM)   
 **Sunkyung Lee**, Minjin Choi, Eunseong Choi, Hye-young Kim, Jongwuk Lee    
@@ -79,34 +110,21 @@ Mexico City, Mexico (Virtual Event), June 6–11, 2021 (Acceptance Rate: 26.5%, 
 
 Domestic Conference and Journal
 ------
-**거대언어모델 기반 추천 시스템을 위한 소프트 프롬프트 활용 지식 주입 방법 비교** [[link]](https://www.dbsociety.kr/kdbc/kdbc2024/proceedings.html)  
-이동철, **이선경**, 이종욱
-한국데이터베이스학회 (Korean DataBase Conference), 2024
+**A Comparative Study of Knowledge Injection Methods using Soft Prompts for LLM–Based Recommendation Systems** [[link]](https://www.dbsociety.kr/kdbc/kdbc2024/proceedings.html)   
+Dongcheol Lee, **Sunkyung Lee**, Jongwuk Lee  
+Korean DataBase Conference, 2024 
 
-**의사 문장 표현을 활용한 수학 문장형 문제 풀이 모델** (우수발표논문상) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113362)  
-김지우, **이선경**, 최은성, 이종욱  
-한국정보과학회 학술발표논문집 Vol.2022 No.06 [2022]: 446-448, Jun 2022  
+**Pseudo-sentence Representation for Math Word Solving Problem** (Best Presentation Award) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113362)  
+Jiwoo Kim, **Sunkyung Lee**, Eunseong Choi, Jongwuk Lee   
+Korea Computer Congress, Vol.2022 No.06 [2022]: 446-448, Jun 2022 
 
-**기계 독해 성능 개선을 위한 데이터 증강 기법** [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10673780)  
-**이선경**, 최은성, 정선호, 이종욱  
-정보과학회논문지 (Journal of KIISE) Vol.48 No.12 [2021]: 1298-1304, Nov 2021  
+**Data Augmentation Methods for Improving the Performance of Machine Reading Comprehension** [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10673780)  
+**Sunkyung Lee**, Eunseong Choi, Seonho Jeong, Jongwuk Lee 
+Journal of KIISE (JOK) Vol.48 No.12 [2021]: 1298-1304, Nov 2021  
 
-**기계 독해 성능 개선을 위한 데이터 증강 기법** (우수논문상) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529658)  
-**이선경**, 정선호, 이종욱  
-한국정보과학회 학술발표논문집 Vol.2020 No.12 [2020]: 400-402, Dec 2020  
-
-------
-
-Working Experience
-======
-**NAVER Corp., Search LLM Solution**  
-*Research Intern* — *Jun 2025 – Sep 2025*  
-Worked on a trustworthy generative information retrieval system leveraging large
-language models on real-world search log data
-
-**NAVER Corp., Search CIC**  
-*Research Intern* — *Jul 2021 – Aug 2021*  
-Developed a sparse representation-based document retrieval system utilizing pretrained language models and implemented pipelines to validate retrieval performance on real-world search data
+**Data Augmentation Methods for Improving the Performance of Machine Reading Comprehension** (Best Paper Award) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529658)  
+**Sunkyung Lee**, Seonho Jeong, Jongwuk Lee 
+Korea Softward Congress Vol.2020 No.12 [2020]: 400-402, Dec 2020 
 
 ------
 
@@ -129,7 +147,24 @@ B.S., Department of Computer Science and Engineering & B.A., Department of Globa
 
 ------
 
+Working Experience
+====== 
 
+**Snap Research**  
+Research Intern, User Modeling and Personalization Team (Bellevue, WA, USA)  
+*Mar 2026 – Jun 2026*
+
+**NAVER Corp.**  
+Research Intern, Search LLM Solution (Seongnam, Republic of Korea)  
+Worked on a trustworthy generative information retrieval system leveraging large language models on real-world search log data  
+*Jun 2025 – Sep 2025*  
+
+**NAVER Corp.**    
+Research Intern, Search CIC (Seongnam, Republic of Korea)  
+Developed a sparse representation-based document retrieval system utilizing pretrained language models and implemented pipelines to validate retrieval performance on real-world search data   
+*Jul 2021 – Aug 2021*
+
+---
 For more info
 ------
 Please download [CV](https://drive.google.com/file/d/1byAnh5h15PSxB_mFncx7IEUELth9D05h/view?usp=sharing) here.  
