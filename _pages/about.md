@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 <style>
+  html {
+    scroll-behavior: smooth;
+  }
+
   .page__content {
     font-size: 0.85em;
     line-height: 1.65;
@@ -16,6 +20,7 @@ redirect_from:
 
   .page__content h1 {
     font-size: 1.8em;
+    scroll-margin-top: 1em;
   }
 
   .page__content h2 {
@@ -33,7 +38,7 @@ redirect_from:
 
 </style>
 
-I'm a Ph.D. candidate in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023. Previously, I earned my B.S. in Computer Science and Engineering and B.A. in Economics from SKKU in 2021. My research focuses on the intersection of Information Retrieval and Natural Language Processing. Specifically, my interests center on Generative Search and Recommendation, alongside the application of large language models for advanced personalization and user modeling. A key objective is the integration of generative models with scalable system deployment, facilitating the translation of research innovations into real-world applications.
+I'm a Ph.D. candidate advised by Prof. Jongwuk Lee in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023, under the supervision of Prof. Jongwuk Lee. Previously, I earned my B.S. in Computer Science and Engineering and B.A. in Economics from SKKU in 2021. My research focuses on the intersection of **Information Retrieval** and **Natural Language Processing**. Specifically, my interests center on **Generative Search and Recommendation**, alongside the application of large language models for advanced personalization and user modeling. I aim to integrate generative models with scalable system deployment, facilitating the translation of research innovations into real-world applications. My CV is available [here](https://drive.google.com/file/d/1byAnh5h15PSxB_mFncx7IEUELth9D05h/view?usp=sharing).  
 
 ------
 
@@ -46,7 +51,7 @@ International Conference
 
 **From Relevance to Authority: Authority-aware Generative Retrieval in Web Search Engines** [[link]](https://arxiv.org/abs/2604.13468)  
 **Sunkyung Lee**\*, Jihye Back\*, Donghyeon Jeon, Soonhwan Kwon, Moonkwon Kim, Inho Kang, Jongwuk Lee   
-The 64th Annual Meeting of the Association for Computational Linguistics (ACL Industry Track)   
+The 64th Annual Meeting of the Association for Computational Linguistics (ACL Industry Track, **Oral**)   
 San Diego, California, United States, July 2–7, 2026 
 
 
@@ -128,6 +133,32 @@ Korea Softward Congress Vol.2020 No.12 [2020]: 400-402, Dec 2020
 
 ------
 
+
+Working Experience
+====== 
+
+**Roblox Corporation**  
+Research Intern, Discovery Team (San Mateo, CA, USA)  
+*Aug 2026 – Nov 2026*
+
+
+**Snap Research**  
+Research Intern, User Modeling and Personalization Team (Bellevue, WA, USA)  
+Worked on understanding the properties of effective item tokenization for generative recommendation  
+*Mar 2026 – Jun 2026*
+
+**NAVER Corp.**  
+Research Intern, Search LLM Solution (Seongnam, Republic of Korea)  
+Worked on a trustworthy generative information retrieval system leveraging large language models on real-world search log data  
+*Jun 2025 – Sep 2025*  
+
+**NAVER Corp.**    
+Research Intern, Search CIC (Seongnam, Republic of Korea)  
+Developed a sparse representation-based document retrieval system utilizing pretrained language models and implemented pipelines to validate retrieval performance on real-world search data   
+*Jul 2021 – Aug 2021*
+
+------
+
 Education   
 ====== 
 **Sungkyunkwan University, Republic of Korea**  
@@ -147,27 +178,7 @@ B.S., Department of Computer Science and Engineering & B.A., Department of Globa
 
 ------
 
-Working Experience
-====== 
-
-**Snap Research**  
-Research Intern, User Modeling and Personalization Team (Bellevue, WA, USA)  
-*Mar 2026 – Jun 2026*
-
-**NAVER Corp.**  
-Research Intern, Search LLM Solution (Seongnam, Republic of Korea)  
-Worked on a trustworthy generative information retrieval system leveraging large language models on real-world search log data  
-*Jun 2025 – Sep 2025*  
-
-**NAVER Corp.**    
-Research Intern, Search CIC (Seongnam, Republic of Korea)  
-Developed a sparse representation-based document retrieval system utilizing pretrained language models and implemented pipelines to validate retrieval performance on real-world search data   
-*Jul 2021 – Aug 2021*
-
-------
-
-
 For more info   
 ------
-Please download [CV](https://drive.google.com/file/d/1byAnh5h15PSxB_mFncx7IEUELth9D05h/view?usp=sharing) here.  
+
 Visit our lab homepage: [DIAL Lab](https://dial.skku.edu/members/sunkyung_lee)
