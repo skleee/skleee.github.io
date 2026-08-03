@@ -20,7 +20,7 @@ redirect_from:
 
   .page__content h1 {
     font-size: 1.8em;
-    scroll-margin-top: 1em;
+    scroll-margin-top: 80px;
   }
 
   .page__content h2 {
