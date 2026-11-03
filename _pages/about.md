@@ -31,65 +31,65 @@ I'm a Ph.D. candidate advised by Prof. Jongwuk Lee in the Data Intelligence and 
 
 **From Relevance to Authority: Authority-aware Generative Retrieval in Web Search Engines** [[link]](https://arxiv.org/abs/2604.13468)  
 **Sunkyung Lee**\*, Jihye Back\*, Donghyeon Jeon, Soonhwan Kwon, Moonkwon Kim, Inho Kang, Jongwuk Lee   
-The 64th Annual Meeting of the Association for Computational Linguistics (ACL Industry Track, **Oral**)   
+The 64th Annual Meeting of the Association for Computational Linguistics (<strong class="conference-name">ACL Industry Track</strong>, **Oral**)   
 San Diego, California, United States, July 2–7, 2026 
 
 
 **Enhancing Time Awareness in Generative Recommendation** [[link]](https://arxiv.org/abs/2509.13957) [[code]](https://github.com/skleee/GRUT)   
-**Sunkyung Lee**, Seongmin Park, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee 
-Findings of the Association for Computational Linguistics: EMNLP 2025 (EMNLP findings)  
+**Sunkyung Lee**, Seongmin Park, Jonghyo Kim, Mincheol Yoon, Jongwuk Lee<br>
+Findings of the Association for Computational Linguistics: EMNLP 2025 (<strong class="conference-name">EMNLP findings</strong>)  
 Suzhou, China, Nov 5-9, 2025   
 
 **GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion** [[link]](https://arxiv.org/abs/2506.01673) [[code]](https://github.com/skleee/GRAM)   
 **Sunkyung Lee**, Minjin Choi, Eunseong Choi, Hye-young Kim, Jongwuk Lee    
-The 63rd Annual Meeting of the Association for Computational Linguistics (ACL)  
+The 63rd Annual Meeting of the Association for Computational Linguistics (<strong class="conference-name">ACL</strong>)  
 Vienna, Austria, July 27–Aug 1, 2025 (Acceptance Rate: 20.3%, 1699/8360)
 
 **Linear Item-Item Models with Neural Knowledge for Session-based Recommendation** [[link]](https://arxiv.org/abs/2504.15057) [[code]](https://github.com/jin530/LINK)   
 Minjin Choi, **Sunkyung Lee**, Seongmin Park, Jongwuk Lee    
-The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)  
+The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong class="conference-name">SIGIR</strong>)  
 Padua, Italy, July 13-17, 2025 (Acceptance Rate: 21.5%, 238/1105)    
 
 
 **DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation** [[link]](https://arxiv.org/abs/2505.13974) [[code]](https://github.com/HyeYoung1218/DIFF)   
 Hye-young Kim, Minjin Choi, **Sunkyung Lee**, Ilwoong Baek, Jongwuk Lee  
-The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)  
+The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong class="conference-name">SIGIR</strong>)  
 Padua, Italy, July 13-17, 2025 (Acceptance Rate: 21.5%, 238/1105)   
 
 
 **From Reading to Compressing: Exploring the Multi-document Reader for Prompt Compression** [[link]](https://arxiv.org/abs/2410.04139) [[code]](https://github.com/eunseongc/R2C)  
 Eunseong Choi, **Sunkyung Lee**, Minjin Choi, June Park, Jongwuk Lee  
-Findings of the Association for Computational Linguistics: EMNLP 2024 (EMNLP findings)  
+Findings of the Association for Computational Linguistics: EMNLP 2024 (<strong class="conference-name">EMNLP findings</strong>)  
 Miami, Florida, USA, November 12-16, 2024 
 
 
 **MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation** [[link]](https://dl.acm.org/doi/10.1145/3627673.3679960) [[code]](https://github.com/junieberry/MARS) [[poster]](https://github.com/junieberry/MARS/blob/main/assets/poster.pdf)      
 Hyunsoo Kim\*, Junyoung Kim\*, Minjin Choi, **Sunkyung Lee**, Jongwuk Lee (* : equal contribution)  
-The 33rd ACM International Conference on Information and Knowledge Management (CIKM, short paper)  
+The 33rd ACM International Conference on Information and Knowledge Management (<strong class="conference-name">CIKM</strong>, short paper)  
 Boise, Idaho, USA, October 21-25, 2024 (Acceptance Rate: 26.8%, 141/527)  
 
 
 **GLEN: Generative Retrieval via Lexical Index Learning** [[link]](https://arxiv.org/abs/2311.03057) [[code]](https://github.com/skleee/GLEN) [[blog(korean)]](https://dial.skku.edu/blog/2023_glen)   
 **Sunkyung Lee**\*, Minjin Choi\*, Jongwuk Lee (* : equal contribution)  
-The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)  
+The 2023 Conference on Empirical Methods in Natural Language Processing (<strong class="conference-name">EMNLP</strong>)  
 Singapore, December 6-10, 2023 (Acceptance Rate: 23.3%, 901/3868)
 
 
 **ConQueR: Contextualized Query Reduction using Search Logs** [[link]](https://arxiv.org/abs/2305.12662) [[code]](https://github.com/eunseongc/SpaDE) [[blog(korean)]](https://dial.skku.edu/blog/2023_conquer)    
 Hye-young Kim\*, Minjin Choi\*, **Sunkyung Lee**, Eunseong Choi, Young-In Song and Jongwuk Lee (* : equal contribution)  
-The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR, short paper)  
+The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong class="conference-name">SIGIR</strong>, short paper)  
 Taipei, Taiwan, July 23-27, 2023 (Acceptance Rate: 25.12%, 154/613)  
 
 
 **SpaDE: Improving Sparse Representations using a Dual Document Encoder for First-stage Retrieval** [[link]](https://dl.acm.org/doi/abs/10.1145/3511808.3557456) [[code]](https://github.com/eunseongc/SpaDE)  
 Eunseong Choi\*, **Sunkyung Lee**\*, Minjin Choi, Hyeseon Ko, Young-In Song and Jongwuk Lee (* : equal contribution)  
-The 31st ACM International Conference on Information and Knowledge Management (CIKM)  
+The 31st ACM International Conference on Information and Knowledge Management (<strong class="conference-name">CIKM</strong>)  
 Atlanta, Georgia, USA, October 17-21, 2022 (Acceptance Rate: 23.3%, 274/1175) 
 
 
 **MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories** [[link]](https://www.aclweb.org/anthology/2021.naacl-main.141/) [[code]](https://github.com/jin530/MelBERT) [[slide]](https://www.slideshare.net/SKLEE36/melbert-metaphor-detection-via-contextualized-late-interaction-using-metaphorical-identification-theories-naacl-2021) [[video]](https://youtu.be/o-t48l-m8Gs)  
 Minjin Choi, **Sunkyung Lee**, Eunseong Choi, Heesoo Park, Junhyuk Lee, Dongwon Lee, Jongwuk Lee  
-2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)  
+2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (<strong class="conference-name">NAACL</strong>)  
 Mexico City, Mexico (Virtual Event), June 6–11, 2021 (Acceptance Rate: 26.5%, 477/1797)
 
 </div>
