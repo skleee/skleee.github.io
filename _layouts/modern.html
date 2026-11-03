@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta name="description" content="Sunkyung Lee — information retrieval, natural language processing, and generative recommendation.">
+  <title>{% if page.url != "/" %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/assets/css/modern.css" | relative_url }}">
+</head>
+<body>
+  <header><div class="header-inner">
+    <a class="brand" href="{{ "/" | relative_url }}#about">Sunkyung <strong>Lee</strong></a>
+    <nav aria-label="Main navigation">
+      {% for link in site.data.navigation.main %}
+      <a href="{{ link.url | relative_url }}">{{ link.title | escape }}</a>
+      {% endfor %}
+    </nav>
+  </div></header>
+  <main id="main">
+    {{ content }}
+    <footer>© {{ site.time | date: '%Y' }} {{ site.name | escape }}</footer>
+  </main>
+  {% include analytics.html %}
+</body>
+</html>

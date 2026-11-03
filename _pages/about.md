@@ -1,53 +1,33 @@
 ---
+layout: modern
 permalink: /
 title: "About"
-excerpt: "About me"
-author_profile: true
+excerpt: "Sunkyung Lee — information retrieval, natural language processing, and generative recommendation."
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<style>
-  html {
-    scroll-behavior: smooth;
-  }
+<section id="about" class="intro" aria-labelledby="name" markdown="1">
+<h1 id="name">Sunkyung <strong>Lee</strong></h1>
+<p class="subtitle">Ph.D. candidate · Sungkyunkwan University</p>
+<img class="portrait" src="{{ '/images/profile.jpg' | relative_url }}" alt="Sunkyung Lee" width="170">
 
-  .page__content {
-    font-size: 0.85em;
-    line-height: 1.65;
-  }
+I'm a Ph.D. candidate advised by Prof. Jongwuk Lee in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023, under the supervision of Prof. Jongwuk Lee. Previously, I earned my B.S. in Computer Science and Engineering and B.A. in Economics from SKKU in 2021. My research focuses on the intersection of **Information Retrieval** and **Natural Language Processing**. Specifically, my interests center on **Generative Search and Recommendation**, alongside the application of large language models for advanced personalization and user modeling. I aim to integrate generative models with scalable system deployment, facilitating the translation of research innovations into real-world applications. My CV is available [here](https://drive.google.com/file/d/1SJqkRk8m8wokrBe_Qbf9Syw6DnhYNXR5/view?usp=sharing).
 
-  .page__content h1 {
-    font-size: 1.8em;
-    scroll-margin-top: 80px;
-  }
+<div class="social-links">
+<a href="mailto:{{ site.author.email }}">Email</a>
+<a href="{{ site.author.googlescholar }}">Google Scholar</a>
+<a href="https://github.com/{{ site.author.github }}">GitHub</a>
+<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>
+<a href="{{ site.author.orcid }}">ORCID</a>
+</div>
+</section>
 
-  .page__content h2 {
-    font-size: 1.4em;
-  }
-
-  .conference-name {
-    color: #0066CC; /* 006DD9 */
-    font-weight: bold;
-  }
-
-  .bold-name {
-    font-weight: bold;
-  }
-
-</style>
-
-I'm a Ph.D. candidate advised by Prof. Jongwuk Lee in the Data Intelligence and Learning Lab (DIAL Lab) at Sungkyunkwan University (SKKU), Korea. I received my M.S. degree in Artificial Intelligence from SKKU in 2023, under the supervision of Prof. Jongwuk Lee. Previously, I earned my B.S. in Computer Science and Engineering and B.A. in Economics from SKKU in 2021. My research focuses on the intersection of **Information Retrieval** and **Natural Language Processing**. Specifically, my interests center on **Generative Search and Recommendation**, alongside the application of large language models for advanced personalization and user modeling. I aim to integrate generative models with scalable system deployment, facilitating the translation of research innovations into real-world applications. My CV is available [here](https://drive.google.com/file/d/1byAnh5h15PSxB_mFncx7IEUELth9D05h/view?usp=sharing).  
-
-------
-
-
-Publications
-======
-
-International Conference
-------
+<section id="publications" aria-labelledby="publications-heading" markdown="1">
+<h2 id="publications-heading">SELECTED PUBLICATIONS</h2>
+<div class="publications" markdown="1">
 
 **From Relevance to Authority: Authority-aware Generative Retrieval in Web Search Engines** [[link]](https://arxiv.org/abs/2604.13468)  
 **Sunkyung Lee**\*, Jihye Back\*, Donghyeon Jeon, Soonhwan Kwon, Moonkwon Kim, Inho Kang, Jongwuk Lee   
@@ -110,32 +90,14 @@ Atlanta, Georgia, USA, October 17-21, 2022 (Acceptance Rate: 23.3%, 274/1175)
 **MelBERT: Metaphor Detection via Contextualized Late Interaction using Metaphorical Identification Theories** [[link]](https://www.aclweb.org/anthology/2021.naacl-main.141/) [[code]](https://github.com/jin530/MelBERT) [[slide]](https://www.slideshare.net/SKLEE36/melbert-metaphor-detection-via-contextualized-late-interaction-using-metaphorical-identification-theories-naacl-2021) [[video]](https://youtu.be/o-t48l-m8Gs)  
 Minjin Choi, **Sunkyung Lee**, Eunseong Choi, Heesoo Park, Junhyuk Lee, Dongwon Lee, Jongwuk Lee  
 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)  
-Mexico City, Mexico (Virtual Event), June 6–11, 2021 (Acceptance Rate: 26.5%, 477/1797)  
+Mexico City, Mexico (Virtual Event), June 6–11, 2021 (Acceptance Rate: 26.5%, 477/1797)
 
+</div>
+</section>
 
-Domestic Conference and Journal
-------
-**A Comparative Study of Knowledge Injection Methods using Soft Prompts for LLM–Based Recommendation Systems** [[link]](https://www.dbsociety.kr/kdbc/kdbc2024/proceedings.html)   
-Dongcheol Lee, **Sunkyung Lee**, Jongwuk Lee  
-Korean DataBase Conference, 2024 
-
-**Pseudo-sentence Representation for Math Word Solving Problem** (Best Presentation Award) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113362)  
-Jiwoo Kim, **Sunkyung Lee**, Eunseong Choi, Jongwuk Lee   
-Korea Computer Congress, Vol.2022 No.06 [2022]: 446-448, Jun 2022 
-
-**Data Augmentation Methods for Improving the Performance of Machine Reading Comprehension** [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10673780)  
-**Sunkyung Lee**, Eunseong Choi, Seonho Jeong, Jongwuk Lee 
-Journal of KIISE (JOK) Vol.48 No.12 [2021]: 1298-1304, Nov 2021  
-
-**Data Augmentation Methods for Improving the Performance of Machine Reading Comprehension** (Best Paper Award) [[link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10529658)  
-**Sunkyung Lee**, Seonho Jeong, Jongwuk Lee 
-Korea Softward Congress Vol.2020 No.12 [2020]: 400-402, Dec 2020 
-
-------
-
-
-Working Experience
-====== 
+<section id="experience" class="details" aria-labelledby="experience-heading" markdown="1">
+<span id="working-experience" class="anchor-alias" aria-hidden="true"></span>
+<h2 id="experience-heading">EXPERIENCE</h2>
 
 **Roblox Corporation**  
 Research Intern, Discovery Team (San Mateo, CA, USA)  
@@ -157,10 +119,11 @@ Research Intern, Search CIC (Seongnam, Republic of Korea)
 Developed a sparse representation-based document retrieval system utilizing pretrained language models and implemented pipelines to validate retrieval performance on real-world search data   
 *Jul 2021 – Aug 2021*
 
-------
+</section>
 
-Education   
-====== 
+<section id="education" class="details" aria-labelledby="education-heading" markdown="1">
+<h2 id="education-heading">EDUCATION</h2>
+
 **Sungkyunkwan University, Republic of Korea**  
 Ph.D., Department of Artificial Intelligence  
 *Mar 2023 – present*  
@@ -176,9 +139,4 @@ Thesis: A Dual Document Encoder Based on Sparse Representations for First-stage 
 B.S., Department of Computer Science and Engineering & B.A., Department of Global Economics   
 *Mar 2017 – Feb 2021*
 
-------
-
-For more info   
-------
-
-Visit our lab homepage: [DIAL Lab](https://dial.skku.edu/members/sunkyung_lee)
+</section>
