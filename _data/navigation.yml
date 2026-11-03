@@ -1,7 +1,7 @@
 main:
   - title: "ABOUT"
     url: /#about
-  - title: "SELECTED PUBLICATIONS"
+  - title: "PUBLICATIONS"
     url: /#publications
   - title: "EXPERIENCE"
     url: /#experience

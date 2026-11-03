@@ -101,6 +101,7 @@ Mexico City, Mexico (Virtual Event), June 6–11, 2021 (Acceptance Rate: 26.5%, 
 
 **Roblox Corporation**  
 Research Intern, Discovery Team (San Mateo, CA, USA)  
+Worked on mechanistic interpretability and controllability for generative recommendation  
 *Aug 2026 – Nov 2026*
 
 
@@ -126,8 +127,9 @@ Developed a sparse representation-based document retrieval system utilizing pret
 
 **Sungkyunkwan University, Republic of Korea**  
 Ph.D., Department of Artificial Intelligence  
-*Mar 2023 – present*  
-Advisor: Prof. Jongwuk Lee
+*Mar 2023 – Feb 2027 (Expected)*  
+Advisor: Prof. Jongwuk Lee  
+Thesis: Toward Effective Generative Search and Recommendation
 
 **Sungkyunkwan University, Republic of Korea**  
 M.S., Department of Artificial Intelligence   
