@@ -28,3 +28,13 @@ The development configuration disables visitor analytics. Build with
 
 The original site was based on Academic Pages / Minimal Mistakes. See `LICENSE`
 for the retained license notice.
+
+## Organization logo sources
+
+These marks identify the organizations in Experience and Education. Original
+artwork is stored locally in `images/logos/` and displayed without recoloring.
+
+- Roblox: [official press kit](https://about.roblox.com/press-kit), `Roblox_Tilt_Black.svg` from the logo pack.
+- Snap Research: avatar of its [verified GitHub organization](https://github.com/snap-research).
+- NAVER: [official website](https://www.naver.com/) apple touch icon (`https://s.pstatic.net/static/www/nFavicon96.png`).
+- Sungkyunkwan University: [official symbol page](https://www.skku.ac.kr/skku/about/symbol/symbol_01.do), `SymbolMark.jpg` from the JPG download.

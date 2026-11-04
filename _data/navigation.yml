@@ -1,9 +1,9 @@
 main:
-  - title: "ABOUT"
+  - title: "About"
     url: /#about
-  - title: "EXPERIENCE"
-    url: /#experience
-  - title: "PUBLICATIONS"
+  - title: "Publications"
     url: /#publications
-  - title: "EDUCATION"
+  - title: "Experience"
+    url: /#experience
+  - title: "Education"
     url: /#education
