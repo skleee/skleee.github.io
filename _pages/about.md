@@ -29,6 +29,14 @@ I'm a Ph.D. candidate advised by Prof. Jongwuk Lee in the Data Intelligence and 
 <h2 id="publications-heading">Publications</h2>
 <div class="publications" markdown="1">
 
+**SteerGR: Steering Generative Recommendation via Sparse Autoencoders for Controllable Game Discovery**  
+**Sunkyung Lee**, Xiaokai Wei, Da Long, Hyunsik Jeon, Jiajun Wu, Rithwik Seth, Jongwuk Lee, Michelle Gong, Gungor Polatkan  
+Preprint, 2026
+
+**On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies** [[link]](https://arxiv.org/abs/2606.17276)  
+Sunwoo Kim, **Sunkyung Lee**, Clark Mingxuan Ju, Donald Loveland, Bhuvesh Kumar, Kijung Shin, Neil Shah, Liam Collins  
+Preprint, 2026
+
 **From Relevance to Authority: Authority-aware Generative Retrieval in Web Search Engines** [[link]](https://arxiv.org/abs/2604.13468)  
 **Sunkyung Lee**\*, Jihye Back\*, Donghyeon Jeon, Soonhwan Kwon, Moonkwon Kim, Inho Kang, Jongwuk Lee   
 The 64th Annual Meeting of the Association for Computational Linguistics (<strong class="conference-name">ACL Industry Track</strong>, <strong class="oral">Oral</strong>)   
