@@ -29,7 +29,7 @@ I'm a Ph.D. candidate advised by Prof. Jongwuk Lee in the Data Intelligence and 
 <h2 id="publications-heading">Publications</h2>
 <div class="publications" markdown="1">
 
-**SteerGR: Steering Generative Recommendation via Sparse Autoencoders for Controllable Game Discovery**  
+**SteerGR: Steering Generative Recommendation via Sparse Autoencoders for Controllable Game Discovery** [[link]](https://arxiv.org/abs/2611.08790)  
 **Sunkyung Lee**, Xiaokai Wei, Da Long, Hyunsik Jeon, Jiajun Wu, Rithwik Seth, Jongwuk Lee, Michelle Gong, Gungor Polatkan  
 Preprint, 2026
 
